@@ -1,7 +1,7 @@
 const fs = require('fs');
 const http = require('http');
-const { json } = require('stream/consumers');
 const url = require('url');
+const replaceTemplate = require('./modules/replaceTemplate')
 
 ////////////////////////////////////// FILES //////////////////////////////////////
 // Blocking, synchronous way
@@ -28,18 +28,6 @@ const url = require('url');
 // console.log("Will read file!");
 
 ////////////////////////////////////// SERVER //////////////////////////////////////
-const replaceTemplate = (temp, movie) => {
-    let output = temp.replace(/{%MOVIENAME%}/g, movie.movieName);
-    output = output.replace(/{%STREAMING%}/g, movie.streaming);
-    output = output.replace(/{%GENRE%}/g, movie.mainGenre);
-    output = output.replace(/{%IMDB%}/g, movie.imdb);
-    output = output.replace(/{%YEAR%}/g, movie.year);
-    output = output.replace(/{%DESCRIPTION%}/g, movie.description);
-    output = output.replace(/{%ID%}/g, movie.id);
-
-    return output;
-}
-
 const tempOverview = fs.readFileSync(`${__dirname}/templates/template-overview.html`, 'utf-8');
 const tempMovie = fs.readFileSync(`${__dirname}/templates/template-movie.html`, 'utf-8');
 const tempCard = fs.readFileSync(`${__dirname}/templates/template-card.html`, 'utf-8');
@@ -48,10 +36,10 @@ const data = fs.readFileSync(`${__dirname}/dev-data/data.json`, 'utf-8');
 const dataObj = JSON.parse(data);
 
 const server = http.createServer((req, res) => {
-    const pathName = req.url;
+    const { query, pathname } = url.parse(req.url, true);
 
     // Overview page
-    if (pathName === '/' || pathName === '/overview') {
+    if (pathname === '/' || pathname === '/overview') {
         res.writeHead(200, {'Content-type': 'text/html'});
 
         const cardsHtml = dataObj.map(el => replaceTemplate(tempCard, el)).join('');
@@ -59,12 +47,15 @@ const server = http.createServer((req, res) => {
         res.end(output);
 
     // Movies page
-    } else if (pathName === '/movies') {
+    } else if (pathname === '/movies') {
         res.writeHead(200, {'Content-type': 'text/html'});
-        res.end(tempMovie);
+        
+        const movie = dataObj[query.id];
+        const output = replaceTemplate(tempMovie, movie);
+        res.end(output);
     
     // API
-    } else if (pathName === '/api') {
+    } else if (pathname === '/api') {
         res.writeHead(200, {'Content-type': 'application/json'});
         res.end(data);
     
