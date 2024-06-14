@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "movieName": "The Godfather",
+        "streaming": "Netflix",
+        "mainGenre": "Mafia",
+        "imdb": "4.6",
+        "year": "1972",
+        "description": "A mafia family struggles to establish its supremacy in the United States after World War II. An assassination attempt leaves boss Vito Corleone incapacitated and forces sons Michael and Sonny to take over the business."
+    },
+    {
+        "id": 1,
+        "movieName": "Oppenheimer",
+        "streaming": "Netflix",
+        "mainGenre": "Biography",
+        "imdb": "4.1",
+        "year": "2023",
+        "description": "Oppenheimer, American and British dramatic biographical film, released in 2023, that explores the life and legacy of the American physicist J. Robert Oppenheimer, who played a key role in the development of the atomic bomb. Oppenheimer was critically acclaimed for its complex portrayal of its subject as well as for the technical accomplishments of its director, Christopher Nolan. The film was also a commercial success, grossing more than $900 million in box office receipts in the first four months after its release."
+    },
+    {
+        "id": 2,
+        "movieName": "City of God",
+        "streaming": "Netflix",
+        "mainGenre": "Drama",
+        "imdb": "4.3",
+        "year": "2002",
+        "description": "Brazil, 1960s, City of God. The Tender Trio robs motels and gas trucks. Younger kids watch and learn well...too well. 1970s: Li'l Zé has prospered very well and owns the city. He causes violence and fear as he wipes out rival gangs without mercy. His best friend Bené is the only one to keep him on the good side of sanity. Rocket has watched these two gain power for years, and he wants no part of it. he keeps getting swept up in the madness. All he wants to do is take pictures. 1980s: Things are out of control between the last two remaining gangs...will it ever end? Welcome to the City of God."
+    },
+    {
+        "id": 3,
+        "movieName": "Joker",
+        "streaming": "Max",
+        "mainGenre": "Drama",
+        "imdb": "4.2",
+        "year": "2019",
+        "description": "A socially inept clown for hire - Arthur Fleck aspires to be a stand up comedian among his small job working dressed as a clown holding a sign for advertising. He takes care of his mother, Penny Fleck, and as he learns more about his mental illness, he learns more about his past. Dealing with all the negativity and bullying from society, he heads downwards on a spiral, in turn showing how his alter ego, 'Joker', came to be. "
+    }
+]
