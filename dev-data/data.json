@@ -6,7 +6,7 @@
         "mainGenre": "Mafia",
         "imdb": "4.6",
         "year": "1972",
-        "description": "A mafia family struggles to establish its supremacy in the United States after World War II. An assassination attempt leaves boss Vito Corleone incapacitated and forces sons Michael and Sonny to take over the business."
+        "description": "A mafia family struggles to establish its supremacy in the United States after World War II. An assassination attempt leaves boss Vito Corleone incapacitated and forces sons Michael and Sonny to take over the business. As Michael takes charge, he transforms from a reluctant family outsider to a ruthless mafia boss, redefining the family's legacy and grappling with power, loyalty, and the corrupting influence of violence. The film explores themes of family, crime, and the moral complexities of power in a vividly portrayed mid-20th century America."
     },
     {
         "id": 1,
@@ -15,7 +15,7 @@
         "mainGenre": "Biography",
         "imdb": "4.1",
         "year": "2023",
-        "description": "Oppenheimer, American and British dramatic biographical film, released in 2023, that explores the life and legacy of the American physicist J. Robert Oppenheimer, who played a key role in the development of the atomic bomb. Oppenheimer was critically acclaimed for its complex portrayal of its subject as well as for the technical accomplishments of its director, Christopher Nolan. The film was also a commercial success, grossing more than $900 million in box office receipts in the first four months after its release."
+        "description": "Oppenheimer, an American and British dramatic biographical film, released in 2023, explores the life and legacy of the American physicist J. Robert Oppenheimer, who played a key role in the development of the atomic bomb. The film delves into his complex personality, the ethical dilemmas he faced, and the monumental impact of his work on modern history. Directed by Christopher Nolan, Oppenheimer captures the scientific breakthroughs, political tensions, and personal conflicts of the era, offering a profound examination of the consequences of scientific discovery and its enduring impact on humanity."
     },
     {
         "id": 2,
@@ -24,7 +24,7 @@
         "mainGenre": "Drama",
         "imdb": "4.3",
         "year": "2002",
-        "description": "Brazil, 1960s, City of God. The Tender Trio robs motels and gas trucks. Younger kids watch and learn well...too well. 1970s: Li'l Zé has prospered very well and owns the city. He causes violence and fear as he wipes out rival gangs without mercy. His best friend Bené is the only one to keep him on the good side of sanity. Rocket has watched these two gain power for years, and he wants no part of it. he keeps getting swept up in the madness. All he wants to do is take pictures. 1980s: Things are out of control between the last two remaining gangs...will it ever end? Welcome to the City of God."
+        "description": "Set in the slums of Rio de Janeiro, 'City of God' follows the lives of several characters over three decades, from the 1960s to the 1980s. The film presents a brutal and unflinching look at the rise of organized crime in the favelas. The Tender Trio robs motels and gas trucks, while younger kids watch and learn. As time progresses, Li'l Zé becomes a feared and ruthless gangster, ruling the streets with violence. His childhood friend Bené remains his moral anchor, while Rocket, an aspiring photographer, documents the chaos, hoping to escape the cycle of violence. The film portrays the harsh realities of life in the favelas, where crime and survival are deeply intertwined."
     },
     {
         "id": 3,
@@ -33,6 +33,231 @@
         "mainGenre": "Drama",
         "imdb": "4.2",
         "year": "2019",
-        "description": "A socially inept clown for hire - Arthur Fleck aspires to be a stand up comedian among his small job working dressed as a clown holding a sign for advertising. He takes care of his mother, Penny Fleck, and as he learns more about his mental illness, he learns more about his past. Dealing with all the negativity and bullying from society, he heads downwards on a spiral, in turn showing how his alter ego, 'Joker', came to be. "
-    }
+        "description": "Arthur Fleck, a mentally ill loner who lives with his mother in Gotham City, dreams of becoming a stand-up comedian. Working as a clown-for-hire, he faces relentless bullying and societal neglect. As he descends further into madness, Arthur discovers disturbing truths about his past and embraces his alter ego, the Joker. The film explores themes of mental illness, societal indifference, and the fine line between comedy and tragedy. 'Joker' is a dark and gripping character study that highlights the impact of isolation and the quest for identity in a world that feels increasingly disconnected."
+    },
+    {
+        "id": 4,
+        "movieName": "Inception",
+        "streaming": "Max",
+        "mainGenre": "Sci-Fi",
+        "imdb": "4.4",
+        "year": "2010",
+        "description": "Dom Cobb is a skilled thief with the rare ability to enter people's dreams and steal their secrets from their subconscious. His talent has made him a hot commodity in the world of corporate espionage but has also cost him everything he loves. Cobb gets a chance at redemption when he is offered a seemingly impossible task: to plant an idea in someone's mind, a process known as inception. If he succeeds, it will be the perfect crime, but a dangerous enemy anticipates Cobb's every move. The film explores the boundaries between reality and dreams, challenging the characters and viewers to question what is real."
+    },
+    {
+        "id": 5,
+        "movieName": "Parasite",
+        "streaming": "Max",
+        "mainGenre": "Thriller",
+        "imdb": "4.2",
+        "year": "2019",
+        "description": "The Kim family, living in a squalid basement apartment, cunningly infiltrates the wealthy Park household by posing as unrelated, highly qualified individuals. What begins as a mutually beneficial arrangement spirals into a darkly comedic tale of greed, class struggle, and social inequality. As the Kims enjoy the luxuries of their deception, a shocking discovery in the Park home threatens to unravel everything. 'Parasite' masterfully blends suspense and satire, examining the pervasive and insidious effects of socioeconomic disparity, and culminating in a dramatic and poignant confrontation."
+    },
+    {
+        "id": 6,
+        "movieName": "The Dark Knight",
+        "streaming": "Max",
+        "mainGenre": "Action",
+        "imdb": "4.5",
+        "year": "2008",
+        "description": "In Gotham City, the stakes are higher than ever as the psychopathic mastermind known as the Joker emerges, intent on plunging the city into anarchy. Batman, with the help of allies Commissioner Gordon and District Attorney Harvey Dent, strives to dismantle the remaining criminal organizations that plague the streets. However, the Joker's reign of chaos forces Batman closer to crossing the fine line between heroism and vigilantism. The film explores themes of justice, morality, and the blurred boundaries between good and evil, making 'The Dark Knight' a landmark in superhero cinema."
+    },
+    {
+        "id": 7,
+        "movieName": "Schindler's List",
+        "streaming": "Netflix",
+        "mainGenre": "Biography",
+        "imdb": "4.5",
+        "year": "1993",
+        "description": "During World War II, Oskar Schindler, a German industrialist and member of the Nazi Party, becomes an unlikely humanitarian, saving the lives of more than a thousand Jewish refugees by employing them in his factories. Witnessing the atrocities of the Holocaust, Schindler's priorities shift from profit to saving as many lives as possible. The film portrays his transformation and the moral and ethical challenges he faces. 'Schindler's List' is a powerful and haunting depiction of one man's courage and the impact of individual actions amidst one of history's darkest periods."
+    },
+    {
+        "id": 8,
+        "movieName": "Pulp Fiction",
+        "streaming": "Netflix",
+        "mainGenre": "Crime",
+        "imdb": "4.5",
+        "year": "1994",
+        "description": "Quentin Tarantino's 'Pulp Fiction' weaves together multiple interconnected stories of crime, redemption, and dark humor. The film follows the lives of two mob hitmen, Vincent Vega and Jules Winnfield, their boss Marsellus Wallace, his wife Mia, and a washed-up boxer named Butch Coolidge. Each story is told out of chronological order, creating a unique narrative structure that challenges traditional storytelling. The film is known for its sharp dialogue, eclectic soundtrack, and memorable performances, making it a defining film of 1990s cinema and a cult classic."
+    },
+    {
+        "id": 9,
+        "movieName": "The Shawshank Redemption",
+        "streaming": "Max",
+        "mainGenre": "Drama",
+        "imdb": "4.6",
+        "year": "1994",
+        "description": "Wrongfully convicted of murder, Andy Dufresne is sentenced to two consecutive life terms in the notoriously harsh Shawshank Prison. Despite the odds, he forms an unlikely friendship with fellow inmate Red, navigates the brutal realities of prison life, and retains hope and resilience. Over the years, Andy's unyielding spirit and ingenuity transform the lives of those around him. 'The Shawshank Redemption' is a profound exploration of hope, friendship, and redemption, highlighting the enduring human spirit's capacity to overcome even the most oppressive circumstances."
+    },
+    {
+        "id": 10,
+        "movieName": "Fight Club",
+        "streaming": "Hulu",
+        "mainGenre": "Drama",
+        "imdb": "4.4",
+        "year": "1999",
+        "description": "A depressed man suffering from insomnia meets a strange soap salesman named Tyler Durden and soon finds himself living in a squalid house after his perfect apartment is destroyed. The two bored men form an underground club with strict rules and fight other men who are fed up with their mundane lives. Their perfect partnership frays when Marla, a fellow support group crasher, attracts Tyler's attention. The film explores themes of consumerism, masculinity, and the search for identity."
+    },
+    {
+        "id": 11,
+        "movieName": "Forrest Gump",
+        "streaming": "Paramount+",
+        "mainGenre": "Drama",
+        "imdb": "4.4",
+        "year": "1994",
+        "description": "Forrest Gump, a man with low intelligence, recounts the early years of his life when he found himself in the middle of key historical events. Despite his limitations, Forrest's presence in pivotal moments of history, his deep love for Jenny, and his remarkable talents in running and business, reveal a life of extraordinary experiences. The film explores themes of destiny, love, and the influence of history on individual lives."
+    },
+    {
+        "id": 12,
+        "movieName": "The Matrix",
+        "streaming": "Max",
+        "mainGenre": "Sci-Fi",
+        "imdb": "4.3",
+        "year": "1999",
+        "description": "Thomas Anderson, a computer programmer, is led to fight an underground war against powerful computers who have constructed his entire reality with a system called the Matrix. When he learns the truth, he joins a rebellion against the machines alongside other people who have been freed from the simulated reality. The film explores themes of reality, technology, and human freedom."
+    },
+    {
+        "id": 13,
+        "movieName": "Goodfellas",
+        "streaming": "Max",
+        "mainGenre": "Crime",
+        "imdb": "4.3",
+        "year": "1990",
+        "description": "Henry Hill and his friends work their way up through the mob hierarchy. The film chronicles Henry's life of crime, from his early days in the 1950s to his involvement in the infamous Lufthansa heist and his ultimate downfall. Directed by Martin Scorsese, 'Goodfellas' is a gritty, realistic portrayal of the mob's inner workings and the allure and danger of a life of crime."
+    },
+    {
+        "id": 14,
+        "movieName": "The Silence of the Lambs",
+        "streaming": "Prime Video",
+        "mainGenre": "Thriller",
+        "imdb": "4.3",
+        "year": "1991",
+        "description": "A young FBI cadet, Clarice Starling, seeks the help of an imprisoned cannibalistic serial killer, Dr. Hannibal Lecter, to catch another serial killer, known as Buffalo Bill, who skins his female victims. The film is a psychological thriller that explores the twisted minds of both the hunter and the hunted, creating a chilling atmosphere of suspense and terror."
+    },
+    {
+        "id": 15,
+        "movieName": "Se7en",
+        "streaming": "Netflix",
+        "mainGenre": "Crime",
+        "imdb": "4.3",
+        "year": "1995",
+        "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives. As the investigation progresses, they are drawn deeper into the dark and twisted mind of the killer, leading to a shocking and unforgettable conclusion. 'Se7en' is a gripping and disturbing thriller that delves into the depths of human depravity and morality."
+    },
+    {
+        "id": 16,
+        "movieName": "Gladiator",
+        "streaming": "Paramount+",
+        "mainGenre": "Action",
+        "imdb": "4.2",
+        "year": "2000",
+        "description": "Maximus, a powerful Roman general, is betrayed when the emperor's ambitious son, Commodus, murders his father and seizes the throne. Reduced to slavery, Maximus rises through the ranks of the gladiatorial arena to avenge the murders of his family and his emperor. The film is a sweeping historical epic that explores themes of revenge, honor, and the quest for justice."
+    },
+    {
+        "id": 17,
+        "movieName": "The Lion King",
+        "streaming": "Disney+",
+        "mainGenre": "Animation",
+        "imdb": "4.2",
+        "year": "1994",
+        "description": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the savanna, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young prince must decide his fate: Will he remain an outcast or face his demons and become what he needs to be? The film is a coming-of-age story that explores themes of responsibility, family, and redemption."
+    },
+    {
+        "id": 18,
+        "movieName": "The Green Mile",
+        "streaming": "Max",
+        "mainGenre": "Drama",
+        "imdb": "4.3",
+        "year": "1999",
+        "description": "Paul Edgecomb, a prison guard during the Great Depression, encounters John Coffey, a black man convicted of murdering two white girls. Coffey has a mysterious gift, and as Paul gets to know him, he begins to question whether Coffey is truly guilty. 'The Green Mile' is a poignant and emotionally charged film that explores themes of justice, mercy, and the supernatural."
+    },
+    {
+        "id": 19,
+        "movieName": "Interstellar",
+        "streaming": "Paramount+",
+        "mainGenre": "Sci-Fi",
+        "imdb": "4.3",
+        "year": "2014",
+        "description": "In a dystopian future where humanity is struggling to survive, a group of astronauts travel through a wormhole near Saturn in search of a new home for mankind. Led by former pilot Cooper, the team faces numerous challenges and emotional trials as they seek to secure the survival of the human race. 'Interstellar' is a visually stunning and thought-provoking film that explores themes of love, sacrifice, and the human spirit's resilience."
+    },
+    {
+        "id": 20,
+        "movieName": "The Lord of the Rings: The Fellowship of the Ring",
+        "streaming": "Max",
+        "mainGenre": "Fantasy",
+        "imdb": "4.4",
+        "year": "2001",
+        "description": "In the epic beginning of the trilogy, a young hobbit named Frodo Baggins is tasked with an immense responsibility: to carry the One Ring to Mount Doom, where it must be destroyed. Joined by a fellowship of heroes, including Aragorn, Legolas, Gimli, and Gandalf, Frodo embarks on a perilous journey through Middle-earth, facing dark forces and treacherous landscapes. 'The Fellowship of the Ring' is a tale of friendship, courage, and the struggle against the encroaching darkness."
+    },
+    {
+        "id": 21,
+        "movieName": "The Lord of the Rings: The Two Towers",
+        "streaming": "Max",
+        "mainGenre": "Fantasy",
+        "imdb": "4.3",
+        "year": "2002",
+        "description": "The second installment of the trilogy follows the split journey of the fellowship. Frodo and Sam continue towards Mordor, guided by the mysterious Gollum, while Aragorn, Legolas, and Gimli seek to aid the kingdom of Rohan, which is under siege by Saruman's forces. As alliances are forged and epic battles are fought, the forces of good rally against the overwhelming power of Sauron. 'The Two Towers' deepens the epic narrative, blending character development with breathtaking action."
+    },
+    {
+        "id": 22,
+        "movieName": "The Lord of the Rings: The Return of the King",
+        "streaming": "Max",
+        "mainGenre": "Fantasy",
+        "imdb": "4.5",
+        "year": "2003",
+        "description": "The final chapter of the epic trilogy sees the culmination of the battle for Middle-earth. As Frodo and Sam inch closer to Mount Doom, Aragorn, Legolas, and Gimli join forces with the armies of Rohan and Gondor to stand against Sauron's overwhelming legions. With the fate of Middle-earth hanging in the balance, the film delivers a grand conclusion, highlighting themes of bravery, sacrifice, and the enduring power of friendship."
+    },
+    {
+        "id": 23,
+        "movieName": "The Empire Strikes Back",
+        "streaming": "Disney+",
+        "mainGenre": "Sci-Fi",
+        "imdb": "4.3",
+        "year": "1980",
+        "description": "The second film in the original Star Wars trilogy, 'The Empire Strikes Back' follows the Rebel Alliance as they face off against the Imperial forces. Luke Skywalker begins his training with Yoda, while Han Solo and Princess Leia are pursued by Darth Vader. The film is known for its darker tone, complex character development, and the shocking revelation of Darth Vader's true identity, setting the stage for the epic conclusion of the saga."
+    },
+    {
+        "id": 24,
+        "movieName": "The Godfather Part II",
+        "streaming": "Paramount+",
+        "mainGenre": "Crime",
+        "imdb": "4.5",
+        "year": "1974",
+        "description": "The sequel to 'The Godfather,' this film continues the saga of the Corleone family. It interweaves the story of young Vito Corleone's rise to power with the ascension of his son Michael as the new Don. As Michael seeks to expand the family's criminal empire, he faces betrayal, tragedy, and moral decay. 'The Godfather Part II' is a masterful exploration of power, family, and the consequences of a life of crime."
+    },
+    {
+        "id": 25,
+        "movieName": "Inglourious Basterds",
+        "streaming": "Max",
+        "mainGenre": "War",
+        "imdb": "4.6",
+        "year": "2009",
+        "description": "During World War II, a group of Jewish-American soldiers known as 'The Basterds' is chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. Led by Lieutenant Aldo Raine, they join forces with a German actress and undercover agent, who plots to bring down the leaders of the Third Reich. Meanwhile, a young Jewish girl who runs a cinema in Paris seeks revenge for the slaughter of her family. Directed by Quentin Tarantino, the film is a bold, revisionist take on WWII, blending intense action, dark humor, and a gripping narrative."
+    },
+    {
+        "id": 26,
+        "movieName": "Saving Private Ryan",
+        "streaming": "Paramount+",
+        "mainGenre": "War",
+        "imdb": "4.3",
+        "year": "1998",
+        "description": "Following the Normandy Landings, a group of U.S. soldiers is tasked with finding and bringing home Private James Ryan, whose brothers have been killed in action. Led by Captain John Miller, the mission takes the men behind enemy lines and exposes them to the brutal realities of war. 'Saving Private Ryan' is renowned for its realistic depiction of combat, emotional depth, and exploration of the sacrifices made during war."
+    },
+    {
+        "id": 27,
+        "movieName": "Braveheart",
+        "streaming": "Hulu",
+        "mainGenre": "History",
+        "imdb": "4.2",
+        "year": "1995",
+        "description": "William Wallace, a Scottish rebel, leads an uprising against the cruel English ruler who wishes to occupy Scotland. When his secret bride is executed for assaulting an English soldier who tried to rape her, Wallace begins his long quest to make Scotland free once and for all, along with the assistance of Robert the Bruce. 'Braveheart' is an epic tale of courage, passion, and the fight for freedom."
+    },
+    {
+        "id": 28,
+        "movieName": "The Prestige",
+        "streaming": "Hulu",
+        "mainGenre": "Drama",
+        "imdb": "4.2",
+        "year": "2006",
+        "description": "In the late 19th century, two rival magicians, Robert Angier and Alfred Borden, engage in a bitter competition to create the ultimate stage illusion. Their rivalry leads them to make sacrifices, manipulate, and deceive in their obsessive quest for greatness. Directed by Christopher Nolan, 'The Prestige' explores themes of obsession, sacrifice, and the blurred line between illusion and reality, culminating in a mind-bending finale."
+    }    
 ]
