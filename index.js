@@ -3,31 +3,6 @@ const http = require('http');
 const url = require('url');
 const replaceTemplate = require('./modules/replaceTemplate')
 
-////////////////////////////////////// FILES //////////////////////////////////////
-// Blocking, synchronous way
-// const textIn = fs.readFileSync('./txt/input.txt', 'utf-8');
-// console.log(textIn);
-// const textOut = `This is what we know about avocado:\n${textIn}\nCreated on ${Date.now()}`;
-// fs.writeFileSync('./txt/output.txt', textOut);
-// console.log('File written!')
-
-// Non-Blocking, asynchronous way
-// fs.readFile('./txt/start.txt', 'utf-8', (err, data1) => {
-//     err ? console.log("Sorry, an error has ocurred"):
-//     fs.readFile(`./txt/${data1}.txt`, 'utf-8', (err, data2) => {
-//         err ? console.log("Sorry, an error has ocurred"):
-//         fs.readFile('./txt/append.txt', 'utf-8', (err, data3) => {
-//             err ? console.log("Sorry, an error has ocurred"):
-//             fs.writeFile('./txt/final.txt', `${data2}\n${data3}` , err => {
-//                 console.log("Your file has been written");
-//             })
-//         })
-//     })
-    
-// });
-// console.log("Will read file!");
-
-////////////////////////////////////// SERVER //////////////////////////////////////
 const tempOverview = fs.readFileSync(`${__dirname}/templates/template-overview.html`, 'utf-8');
 const tempMovie = fs.readFileSync(`${__dirname}/templates/template-movie.html`, 'utf-8');
 const tempCard = fs.readFileSync(`${__dirname}/templates/template-card.html`, 'utf-8');
