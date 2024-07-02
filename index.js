@@ -11,7 +11,7 @@ const data = fs.readFileSync(`${__dirname}/dev-data/data.json`, 'utf-8');
 const dataObj = JSON.parse(data);
 
 const port = process.env.PORT || 8000;
-const hostname = '0.0.0.0';
+const hostname = '127.0.0.1';
 
 const server = http.createServer((req, res) => {
     const { query, pathname } = url.parse(req.url, true);
